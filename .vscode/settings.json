@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "/home/nsota/C++",
+    "files.associations": {
+        "*.html": "html",
+        "ostream": "cpp",
+        "bitset": "cpp"
+    }
+}
